@@ -7,57 +7,22 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 800px;
-}
-.hero .nav, .hero.is-success .nav {
-  -webkit-box-shadow: none;
-  box-shadow: none;
-}
-.hero .subtitle {
-  padding: 3rem 0;
-  line-height: 1.5;
 }
 
-.algit-title {
-  font-size: 60px;
+.navbar-title {
+  font-size: 60px !important;
 }
 
-.nav-buttons {
-    margin-right: 89px;
-  }
-  
-p.nav-button {
-    font-size: 30 px;
-}
-
-.nav-button {
-    padding-right: 50px;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 30px;
-    line-height: normal;
-    text-align: center;
-    
-}
-
-.carousel-text {
-  margin-top: 125px;
-  font-size: 30px;
-}
-.hero-head {
-  margin-top: 100px;
-}
-
-.heading {
-  margin-top: 25px;
-  font-size: 1rem;
-}
-
-.title {
-  overflow: hidden;
-  white-space: nowrap;
+.navbar-subitem {
+    font-size: 30px !important;
 }
 
 .footer {
   padding: 20px;
+}
+
+.has-image-centered {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px; 
 }
