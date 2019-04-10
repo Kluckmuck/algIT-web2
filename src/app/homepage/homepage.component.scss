@@ -18,11 +18,25 @@
 }
 
 .navbar-subitem {
-    font-size: 30px !important;
+  font-size: 30px !important;
+}
+
+.navbar-subitem:hover {
+  background-color: black!important;
+  border-radius: 5px;
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+}
+
+.navbar-title:hover {
+  background-color: black!important;
+  border-radius: 5px;
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
 }
 
 .footer {
-  padding: 20px;
+  padding: 10px;
 }
 
 .has-image-centered {
