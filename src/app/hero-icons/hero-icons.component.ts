@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { faLayerGroup, faPalette, faMobileAlt } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-hero-icons',
@@ -11,5 +12,7 @@ export class HeroIconsComponent implements OnInit {
 
   ngOnInit() {
   }
-
+  faLayerGroup = faLayerGroup;
+  faPalette = faPalette;
+  faMobileAlt = faMobileAlt;
 }
