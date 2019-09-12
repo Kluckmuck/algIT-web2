@@ -62,7 +62,7 @@ html,body{
     -webkit-backface-visibility: hidden;
     -webkit-transform: translateZ(0) scale(2.0, 2.0);
     transform: translateZ(0);
-  background:#1B2030 url(https://images.unsplash.com/photo-1522785324312-45326da88559?ixlib=rb-1.2.1&auto=format&fit=crop&w=2900&q=80) top center no-repeat;
+  background:#1B2030 url(./../../assets/images/pexels-photo-2514035.jpeg) top center no-repeat;
   background-size:cover;
   background-attachment:fixed;
   animation: grow 60s  linear 10ms infinite;
@@ -165,3 +165,5 @@ strong {
   padding-top: 3rem;
   padding-bottom: 3rem; 
 }
+
+
